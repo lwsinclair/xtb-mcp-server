@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sharplygroup-xtb-mcp-server-badge.png)](https://mseep.ai/app/sharplygroup-xtb-mcp-server)
+
 # XTBApiServer
 
 This is an MCP server that exposes the XTB API using the `@sharplygroup/xtb-api-js` library. It allows you to interact with your XTB trading account through the Model Context Protocol.
